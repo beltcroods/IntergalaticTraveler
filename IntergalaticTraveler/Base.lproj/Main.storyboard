@@ -58,10 +58,10 @@
             </objects>
             <point key="canvasLocation" x="1047.8260869565217" y="116.51785714285714"/>
         </scene>
-        <!--View Controller-->
+        <!--Second View Controller-->
         <scene sceneID="Shm-24-b0P">
             <objects>
-                <viewController id="CYv-Vo-ocs" sceneMemberID="viewController">
+                <viewController id="CYv-Vo-ocs" customClass="SecondViewController" customModule="IntergalaticTraveler" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ed5-xd-scz">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
