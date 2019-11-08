@@ -10,6 +10,10 @@ import UIKit
 
 class SecondViewController: UIViewController {
 
+    
+    @IBOutlet weak var starImageView: UIImageView!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
